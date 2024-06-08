@@ -52,7 +52,7 @@ SUDO_USERS.append(6285272906)
 
 # Tokens
 
-Riz = TelegramClient('Riz', 'API_ID', "26702190", 'API_HASH', "175c63334b2f3aefb1230d19695dd918").start(bot_token="6782400042:AAEO1vJ5ECr5y42TOI0csp6ZMcK6nL3w6zU")
+Riz = TelegramClient('Riz', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
 Riz2 = TelegramClient('Riz2', API_ID, API_HASH).start(bot_token=BOT_TOKEN2)
 
