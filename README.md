@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/8e43d1a66ca355ea0b7a5.jpg">
+  <img src="https://telegra.ph/file/ca02344736635ce43087a.jpg">
 </p>
 <h1 align="center">
   <b> 𝔅𝔯𝔬𝔨𝔢𝔫 𝔵 𝔰𝔭𝔞𝔪 </b>
